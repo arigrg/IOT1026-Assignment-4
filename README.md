@@ -5,7 +5,7 @@
 	<a href="https://github.com/arigrg/IOT1026-Assignment-4/actions/workflows/formatting.yml">
     <img src="https://github.com/arigrg/IOT1026-Assignment-4/actions/workflows/formatting.yml/badge.svg"/>
 	<br/>
-    <a href="https://codecov.io/gh/arigrg/IOT1026-Assignment-4" > 
+    <a href="https://app.codecov.io/gh/arigrg/IOT1026-Assignment-4/new" > 
     <img src="https://codecov.io/gh/arigrg/IOT1026-Assignment-4/branch/main/graph/badge.svg?token=JS0857X5JD"/> 
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
