@@ -72,4 +72,14 @@ public class Robot
         _commands[_commandsLoaded++] = command;
         return true;
     }
+
+    internal void TurnOn()
+    {
+        throw new NotImplementedException();
+    }
+
+    internal void MoveForward(int v)
+    {
+        throw new NotImplementedException();
+    }
 }

@@ -11,7 +11,16 @@
 
         private static class RobotTester
         {
-            public static void TestRobot() => throw new NotImplementedException();
+            public static void TestRobot()
+            {
+                // Create an instance of the Robot class
+                Robot robot = new();
+
+                // Call methods or perform actions on the robot object
+                robot.TurnOn();
+                robot.MoveForward(10);
+                robot.TurnOn();
+            }
         }
     }
 }
