@@ -11,7 +11,7 @@
 
         private static class RobotTester
         {
-            internal static void TestRobot() => throw new NotImplementedException();
+            public static void TestRobot() => throw new NotImplementedException();
         }
     }
 }
